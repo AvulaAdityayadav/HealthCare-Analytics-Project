@@ -35,8 +35,7 @@ Advanced disease surveillance and outbreak detection capabilities for public hea
 
 Through the Healthcare Analytics Initiative, we successfully harnessed data-driven insights to enhance patient care, optimize operational efficiency, and facilitate informed decision-making within the healthcare sector.Utilizing a combination of Excel, SQL, Tableau, and PowerBI, we transformed complex healthcare data into actionable insights, empowering healthcare providers and administrators to make informed decisions and drive strategic initiatives. The project not only improved patient outcomes and satisfaction but also streamlined processes, reduced costs, and advanced disease surveillance capabilities, ultimately contributing to the overall enhancement of healthcare delivery and public health management.
 
-
-
+### LINK For EXCEL-Health-Care-Analytics Final Project Work : https://docs.google.com/spreadsheets/d/1IuQ9qMqXuL2ZP-gb2-Wybg-aJNlG_r2W/edit?usp=drive_link&ouid=109640594865249148993&rtpof=true&sd=true
 
 
 
